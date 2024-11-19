@@ -1,0 +1,280 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+#navItem1 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem2 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem3 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem4 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+.logo-style {
+    height: 60px;
+    width: 70px;
+}
+
+.banner-background-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/foodmunch-banner-bg.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.banner-heading {
+    color: white;
+    font-family: "Roboto";
+    font-size: 45px;
+    font-weight: 300;
+}
+
+.banner-p {
+    color: white;
+    font-family: "Roboto";
+    font-size: 24px;
+    font-weight: 300;
+
+}
+
+.custom-button {
+    width: 130px;
+    height: 45px;
+    color: white;
+    background-image: linear-gradient(#d0b200, #6e6301);
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+
+.order-btn {
+    width: 130px;
+    height: 45px;
+    color: #d0b200;
+    background-color: transparent;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #d0b200;
+    border-radius: 8px;
+}
+
+.wcu {
+    background-color: #d9d9d9;
+}
+
+.wcu-heading {
+    font-family: "Roboto";
+    font-size: 26px;
+    font-weight: 700;
+    color: #010426;
+}
+
+.wcu-paragraph {
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 200;
+    color: #010426;
+}
+
+.wcu-card {
+    background-color: white;
+    text-align: center;
+    border-style: solid;
+    border-radius: 16px;
+    border-width: 1px;
+    border-color: #e5eaf4;
+}
+
+.food-serve-logo {
+    height: 90px;
+    width: 87px;
+}
+
+.food-serve-heading {
+    font-family: "Roboto";
+    font-size: 24px;
+    font-weight: 600;
+    color: #3234f4b;
+}
+
+.food-serve-description {
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 200;
+    color: #3234f4b;
+}
+
+.offers {
+    font-weight: 600;
+    font-style: italic;
+    color: #191e52;
+}
+
+
+.food1-image {
+    border-radius: 16px;
+
+}
+
+.menu1-nonveg {
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 600;
+    color: #323f4b;
+
+}
+
+.menu1-view-item {
+    font-weight: 500;
+    color: #966f03;
+}
+
+.menu-border-nonveg {
+    border-radius: 16px;
+
+
+}
+
+.healthy-food-section-img {
+
+    width: 270px;
+    border-radius: 16px;
+}
+
+.fresh-healthy-watch-btn {
+    width: 130px;
+    height: 45px;
+    color: white;
+    background-image: linear-gradient(#d0b200, #6e6301);
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+
+.fresh-health-title {
+    font-family: "Roboto";
+    font-size: 24px;
+    font-weight: 600;
+    color: #3234f4b;
+}
+
+.fresh-health-description {
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 200;
+    color: #3234f4b;
+
+}
+
+.delivery-and-payment-section-img {
+
+    width: 270px;
+}
+
+.payment-title {
+    font-family: "Roboto";
+    font-size: 28px;
+    color: #030845;
+    font-weight: 700;
+}
+
+.payment-description {
+    font-family: "Roboto";
+    font-size: 16px;
+    color: #030845;
+    font-weight: 300;
+}
+
+
+.ordernow-btn {
+    width: 130px;
+    height: 45px;
+    color: white;
+    background-image: linear-gradient(#d0b200, #6e6301);
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+
+.payment-card-img {
+    width: 50px;
+    height: 50px;
+    margin-right: 28px;
+}
+
+
+.thanking-customers-section {
+    background-image: radial-gradient(#f2eaa0, #ebdc59);
+}
+
+.thanking-customers-section-heading {
+    font-family: "Roboto";
+    font-weight: 700;
+    font-size: 28px;
+    color: #183b56;
+}
+
+.thanking-customers-section-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.thanking-customers-section-img {
+    width: 270px;
+    margin-bottom: 20px;
+}
+
+
+.food-section-follow {
+    background-color: #74737d;
+
+}
+
+.email-follow {
+    font-family: "Roboto";
+    font-size: 14px;
+    color: white;
+    font-weight: 500;
+
+}
+
+.address-follow {
+    font-family: "Roboto";
+    font-size: 14px;
+    color: white;
+    font-weight: 400;
+}
+
+.follow-icon-container {
+    background-color: #d0d1c5;
+    height: 80px;
+    width: 80px;
+    border-radius: 40px;
+    padding-top: 22px;
+    padding-left: 17px;
+    padding-bottom: 14px;
+    padding-right: 16px;
+    margin: 10px;
+}
+
+
+.icon {
+    color: #676e03;
+    font-size: 35px;
+}
+
+
+.thanking-customers-section-gift-vouchars {
+    color: #857804;
+    font-weight: 800;
+}
